@@ -77,7 +77,7 @@ java -version
 You can either:
 - Download ZIP from GitHub  
 OR  
-- Clone using: git clone <your-repo-link>
+- Clone using: git clone <https://github.com/Meetatgit-2024/PrgrammingInJava_BYOP.git>
 
 
 ---
