@@ -1,0 +1,5 @@
+# Sample data for demonstration
+
+Customer:XYZ
+credit,500,01-03-2026
+debit,200,02-03-2026
